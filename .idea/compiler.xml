@@ -6,11 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="UpstreamDemo04" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="UpstreamDemo04" target="20" />
-    </bytecodeTargetLevel>
   </component>
 </project>
